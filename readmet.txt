@@ -1,2 +1,2 @@
-Today is Monday.
+Today is Thursday.
 And tomorrow is Dragon Boat Festival.
